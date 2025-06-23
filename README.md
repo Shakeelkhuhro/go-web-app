@@ -44,7 +44,7 @@ A simple Go web application, containerized and production-ready with Kubernetes 
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/<your-username>/go-web-app.git
+git clone https://github.com/shakeelkhuhro/go-web-app.git
 cd go-web-app
 ```
 
