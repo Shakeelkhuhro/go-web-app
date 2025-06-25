@@ -97,11 +97,11 @@ kubectl apply -f k8s/manifest/
 ## Credits
 
 - **Go Application Code**: [https://github.com/iam-veeramalla](https://github.com/iam-veeramalla)
-- **Kubernetes, CI/CD, Argo CD, and Automation**: Created and maintained by myself.
+- **Kubernetes, CI/CD, Argo CD, and Automation**: Created and maintained by me.
 
 ---
 
 ## License
 
 This project is for educational and demonstration purposes.  
-Please refer to the original Go application repository for its license.
+Please take a look at the original Go application repository for its license.
