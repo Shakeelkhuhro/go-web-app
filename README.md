@@ -8,7 +8,7 @@ A simple Go web application, containerized and production-ready with Kubernetes 
 
 ## Features
 
-- **Go Web Application**: Lightweight HTTP server written in Go.
+- **Go Web Application**: Lightweight HTTP server written in Go (Go language).
 - **Dockerized**: Easily build and run the app in any containerized environment.
 - **Kubernetes Manifests**: Includes Deployment, Service, and Ingress YAMLs for easy deployment.
 - **Helm Chart**: (If present) For templated, reusable Kubernetes deployments.
